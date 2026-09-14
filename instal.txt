@@ -1,0 +1,16 @@
+cd /d "D:\PROJECT 1000 PAPER\PAPER BANG BADI PAPER ASIA\aplikasi streamlit\bloomberg_ai_dashboard_v1"
+
+pip install -r requirements.txt
+
+python -m pip install -r requirements.txt
+
+streamlit run app.py
+
+
+python -m streamlit run app.py
+
+
+
+cd /d "D:\PROJECT 1000 PAPER\PAPER BANG BADI PAPER ASIA\aplikasi streamlit\bloomberg_ai_dashboard_v1"
+pip install -r requirements.txt
+python -m streamlit run app.py

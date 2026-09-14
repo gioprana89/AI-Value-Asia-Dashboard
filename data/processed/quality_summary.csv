@@ -1,0 +1,8 @@
+metric,value,definition
+Company universe,22825,Rows in ALL sheet after target-market cleaning
+AI companies,33,Artificial Intelligence theme; target Asian markets
+AI countries,6,Countries represented among AI firms
+AI companies with ESG disclosure,31,Matched to ALL sheet
+Financial panel companies,74,Companies in current Bloomberg financial-history block
+Financial firm-years,654,All fiscal-year observations currently parsed
+AI–financial overlapping companies,0,Must be >0 before relationship analysis

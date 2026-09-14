@@ -1,0 +1,34 @@
+security_key,bloomberg_ticker,country_code,country_name,company,exposure_category,region,industry,market_cap_group,revenue_assessment,theme_assessment,total_assessment,ai_revenue_strength,ai_theme_strength,ai_composite_strength,esg_disclosure_score,ipo_date
+688256 CH,688256 CH Equity,CH,China,Cambricon Technologies Corp Lt,Hardware,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,49.05,2020-07-20
+977 CH,000977 CH Equity,CH,China,IEIT Systems Co Ltd,Hardware,Asia Pacific,Technology,Large,2,2,4,2,2,2.0,30.12,2000-08-06
+2230 CH,002230 CH Equity,CH,China,Iflytek Co Ltd,Application Software,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,44.54,2008-12-05
+600588 CH,600588 CH Equity,CH,China,Yonyou Network Technology Co L,Application Software,Asia Pacific,Technology,Mid,3,1,4,1,3,2.0,63.72,2001-05-18
+522 HK,522 HK Equity,HK,Hong Kong,ASMPT Ltd,Semiconductors,Asia Pacific,Technology,Mid,3,2,5,1,2,1.5,55.18,
+992 HK,992 HK Equity,HK,Hong Kong,Lenovo Group Ltd,Hardware,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,66.76,1994-02-02
+100 HK,100 HK Equity,HK,Hong Kong,Minimax Group Inc,Application Software,Asia Pacific,Technology,Large,1,1,2,3,3,3.0,,2026-09-01
+981 HK,981 HK Equity,HK,Hong Kong,Semiconductor Manufacturing In,Semiconductors,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,56.77,2004-03-18
+20 HK,20 HK Equity,HK,Hong Kong,SenseTime Group Inc,Application Software,Asia Pacific,Technology,Mid,3,1,4,1,3,2.0,70.82,2021-12-30
+700 HK,700 HK Equity,HK,Hong Kong,Tencent Holdings Ltd,Application Software,Asia Pacific,Communications,Ultra Large,3,1,4,1,3,2.0,64.31,2004-06-16
+2513 HK,2513 HK Equity,HK,Hong Kong,Z AI Co Ltd,Application Software,Asia Pacific,Technology,Large,1,1,2,3,3,3.0,,2026-08-01
+HCLT IN,HCLT IN Equity,IN,India,HCL Technologies Ltd,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,82.64,2000-11-01
+INFO IN,INFO IN Equity,IN,India,Infosys Ltd,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,91.57,
+TCS IN,TCS IN Equity,IN,India,Tata Consultancy Services Ltd,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,64.63,2004-08-25
+TECHM IN,TECHM IN Equity,IN,India,Tech Mahindra Ltd,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,74.54,2006-08-28
+WPRO IN,WPRO IN Equity,IN,India,Wipro Ltd,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,70.84,
+6857 JP,6857 JP Equity,JP,Japan,Advantest Corp,Semiconductors,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,81.29,1983-09-02
+6146 JP,6146 JP Equity,JP,Japan,Disco Corp,Semiconductors,Asia Pacific,Technology,Large,3,2,5,1,2,1.5,63.55,1989-10-31
+6702 JP,6702 JP Equity,JP,Japan,Fujitsu Ltd,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,63.85,
+6920 JP,6920 JP Equity,JP,Japan,Lasertec Corp,Semiconductors,Asia Pacific,Technology,Large,3,2,5,1,2,1.5,54.76,
+6701 JP,6701 JP Equity,JP,Japan,NEC Corp,Application Accelerator,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,74.36,
+8035 JP,8035 JP Equity,JP,Japan,Tokyo Electron Ltd,Semiconductors,Asia Pacific,Technology,Large,3,2,5,1,2,1.5,67.19,1980-02-06
+4704 JP,4704 JP Equity,JP,Japan,Trend Micro Inc/Japan,Infrastructure Software,Asia Pacific,Technology,Mid,2,2,4,2,2,2.0,31.19,1998-08-18
+660 KS,000660 KS Equity,KS,South Korea,SK hynix Inc,Semiconductors,Asia Pacific,Technology,Ultra Large,2,1,3,2,3,2.5,79.99,1996-12-26
+5930 KS,005930 KS Equity,KS,South Korea,Samsung Electronics Co Ltd,Hardware,Asia Pacific,Technology,Ultra Large,3,1,4,1,3,2.0,44.73,1975-11-06
+3711 TT,3711 TT Equity,TT,Taiwan,ASE Technology Holding Co Ltd,Semiconductors,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,86.08,
+2317 TT,2317 TT Equity,TT,Taiwan,Hon Hai Precision Industry Co,Hardware,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,63.82,1991-06-18
+2356 TT,2356 TT Equity,TT,Taiwan,Inventec Corp,Hardware,Asia Pacific,Technology,Mid,3,1,4,1,3,2.0,66.6,1996-11-13
+2454 TT,2454 TT Equity,TT,Taiwan,MediaTek Inc,Semiconductors,Asia Pacific,Technology,Ultra Large,2,2,4,2,2,2.0,72.67,2001-07-23
+2382 TT,2382 TT Equity,TT,Taiwan,Quanta Computer Inc,Hardware,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,50.88,1999-08-01
+2330 TT,2330 TT Equity,TT,Taiwan,Taiwan Semiconductor Manufactu,Semiconductors,Asia Pacific,Technology,Ultra Large,2,1,3,2,3,2.5,76.88,1994-05-09
+3231 TT,3231 TT Equity,TT,Taiwan,Wistron Corp,Hardware,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,74.07,2003-08-19
+6669 TT,6669 TT Equity,TT,Taiwan,Wiwynn Corp,Hardware,Asia Pacific,Technology,Large,3,1,4,1,3,2.0,42.2,2019-03-27
