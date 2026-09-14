@@ -19,14 +19,8 @@ company_master, ai_df, fin_df, quality = load_all()
 # DASHBOARD HEADER / BRANDING
 # ============================================================
 
-# Extra top spacing so the title is not clipped by Streamlit's top area.
 st.markdown(
-    '<div style="height:12px;"></div>',
-    unsafe_allow_html=True,
-)
-
-st.markdown(
-    '<div style="font-size:2.5rem;font-weight:800;color:#101828;line-height:1.25;margin-top:0;margin-bottom:8px;overflow:visible;">AI VALUE ASIA</div>',
+    '<div style="font-size:2.5rem;font-weight:800;color:#101828;line-height:1.1;margin-bottom:8px;">AI VALUE ASIA</div>',
     unsafe_allow_html=True,
 )
 

@@ -19,29 +19,49 @@ company_master, ai_df, fin_df, quality = load_all()
 # DASHBOARD HEADER / BRANDING
 # ============================================================
 
-# Extra top spacing so the title is not clipped by Streamlit's top area.
 st.markdown(
-    '<div style="height:12px;"></div>',
-    unsafe_allow_html=True,
-)
+    """
+    <div style="
+        text-align: left;
+        padding-top: 5px;
+        padding-bottom: 8px;
+    ">
+        <div style="
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: #101828;
+            line-height: 1.1;
+        ">
+            AI VALUE ASIA
+        </div>
 
-st.markdown(
-    '<div style="font-size:2.5rem;font-weight:800;color:#101828;line-height:1.25;margin-top:0;margin-bottom:8px;overflow:visible;">AI VALUE ASIA</div>',
-    unsafe_allow_html=True,
-)
+        <div style="
+            font-size: 1.20rem;
+            font-weight: 500;
+            color: #344054;
+            margin-top: 8px;
+        ">
+            AI Capability, ESG, Financial Resilience & Firm Value Analytics
+        </div>
 
-st.markdown(
-    '<div style="font-size:1.20rem;font-weight:500;color:#344054;margin-bottom:5px;">AI Capability, ESG, Financial Resilience &amp; Firm Value Analytics</div>',
-    unsafe_allow_html=True,
-)
+        <div style="
+            font-size: 0.95rem;
+            color: #667085;
+            margin-top: 5px;
+        ">
+            Bloomberg Intelligence Research Dashboard
+        </div>
 
-st.markdown(
-    '<div style="font-size:0.95rem;color:#667085;margin-bottom:7px;">Bloomberg Intelligence Research Dashboard</div>',
-    unsafe_allow_html=True,
-)
-
-st.markdown(
-    '<div style="font-size:0.82rem;color:#98A2B3;margin-bottom:10px;">Designed and developed by <b>Abdillah Arif Nasution, Aulia Arif Nasution &amp; Prana Ugiana Gio</b></div>',
+        <div style="
+            font-size: 0.82rem;
+            color: #98A2B3;
+            margin-top: 7px;
+        ">
+            Designed and developed by
+            <b>Abdillah Arif Nasution, Aulia Arif Nasution &amp; Prana Ugiana Gio</b>
+        </div>
+    </div>
+    """,
     unsafe_allow_html=True,
 )
 
